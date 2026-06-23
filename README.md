@@ -1,0 +1,2 @@
+ho sempre avuto un sogno da ragazzino ed era quello di creare il gioco di calcio manageriale più incredibile e grande di sempre, e oggi grazie agli agenti AI e tutti i video in cui spiegano come fare posso provare a realizzare il mio sogno, github e i suoi utenti spero riusciranno a far diventare il mio sogno una realtà incredibile. ogni persona che collabora merita di avere il proprio nome in grande negli stadi di ogni squadra del gioco e avere credits.
+un grazie in anticipo a chiunque voglia collaborare e chiunque voglia parlare con me per aiutarmi in questo progetto.
