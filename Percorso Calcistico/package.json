@@ -1,0 +1,23 @@
+{
+  "name": "percorso-calcistico",
+  "version": "0.1.0-beta",
+  "private": false,
+  "description": "An open-source football career management game built with React.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint src --ext .jsx,.js"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "lucide-react": "^0.383.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.3.1",
+    "eslint": "^9.5.0",
+    "eslint-plugin-react": "^7.34.3"
+  }
+}
